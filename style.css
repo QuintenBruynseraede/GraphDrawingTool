@@ -1,0 +1,16 @@
+textarea {
+    resize: none;
+}
+
+.text {
+    width: 680px;
+    min-height: 620px;
+}
+
+.example {
+    width:1200px;
+}
+
+.container {
+    margin-left:0px;
+}

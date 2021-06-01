@@ -1,0 +1,40 @@
+
+#canvas_div {
+    float: left;
+    width: 400px;
+}
+
+#output_div {
+    float:left;
+    width: 400px;
+}
+#canvas {
+    float: left;
+    border: 1px solid rgba(56, 56, 56, 0.5);
+}
+
+#toolbox {
+    padding:5px;
+    float:left;
+    width:150;
+}
+
+.tool {
+    width:100%;
+    padding:5px;
+    height:32px;
+}
+
+.tool_icon {
+    float:left;
+    width:16px;
+    height:16px;
+}
+
+.tool_label {
+    float:left;
+    width:100px;
+    height:20px;
+    margin-top:-20px;
+    margin-left:5px;
+}
